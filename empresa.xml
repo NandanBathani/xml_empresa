@@ -1,0 +1,89 @@
+<empresa>
+  <nombre>WebAura</nombre>
+  <domicilio>Gran Via, 1, Barcelona, España</domicilio>
+  <telefono>932345678</telefono>
+  <email>info@webaura.com</email>
+
+  <empleados>
+    <empleado>
+      <nombre>Nandan</nombre>
+      <apellidos>Bathani</apellidos>
+      <dni>12345678A</dni>
+      <cargo>Gerente</cargo>
+      <salario>10.000 €</salario>
+    </empleado>
+    <empleado>
+      <nombre>Bruno</nombre>
+      <apellidos>Gosálvez</apellidos>
+      <dni>98765432B</dni>
+      <cargo>Administrativa</cargo>
+      <salario>2.500 €</salario>
+    </empleado>
+    <empleado>
+      <nombre>Brian</nombre>
+      <apellidos>Alarcon</apellidos>
+      <dni>65432109C</dni>
+      <cargo>Vendedor</cargo>
+      <salario>2.000 €</salario>
+    </empleado>
+    <empleado>
+      <nombre>Bruno</nombre>
+      <apellidos>Gosálvez</apellidos>
+      <dni>43210987D</dni>
+      <cargo>Técnico informático</cargo>
+      <salario>2.500 €</salario>
+    </empleado>
+    <empleado>
+      <nombre>Pedro Fernández</nombre>
+      <apellidos>López Pérez</apellidos>
+      <dni>76543210E</dni>
+      <cargo>Recepcionista</cargo>
+      <salario>1.500 €</salario>
+    </empleado>
+  </empleados>
+
+  <usuarios>
+    <usuario>
+      <nombre>Juan Pérez</nombre>
+      <apellidos>García López</apellidos>
+      <email>juan.perez@empresadeexample.com</email>
+      <password>123456</password>
+    </usuario>
+    <usuario>
+      <nombre>María Rodríguez</nombre>
+      <apellidos>Fernández Pérez</apellidos>
+      <email>maria.rodriguez@empresadeexample.com</email>
+      <password>654321</password>
+    </usuario>
+    <usuario>
+      <nombre>Antonio Sánchez</nombre>
+      <apellidos>López Pérez</apellidos>
+      <email>antonio.sanchez@empresadeexample.com</email>
+      <password>987654</password>
+    </usuario>
+    <usuario>
+      <nombre>Luisa Gómez</nombre>
+      <apellidos>García López</apellidos>
+      <email>luisa.gomez@empresadeexample.com</email>
+      <password>432109</password>
+    </usuario>
+    <usuario>
+      <nombre>Pedro Fernández</nombre>
+      <apellidos>López Pérez</apellidos>
+      <email>pedro.fernandez@empresadeexample.com</email>
+      <password>765432</password>
+    </usuario>
+    <usuario>
+      <nombre>Administrador</nombre>
+      <apellidos></apellidos>
+      <email>admin@empresadeexample.com</email>
+      <password>admin</password>
+    </usuario>
+    <usuario>
+      <nombre>Usuario</nombre>
+      <apellidos></apellidos>
+      <email>usuario@empresadeexample.com</email>
+      <password>usuario</password>
+    </usuario>
+  </usuarios>
+</empresa>
